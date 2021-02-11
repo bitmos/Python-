@@ -1,0 +1,6 @@
+      Date              Program
+   03/02/2021         Adiition, Area of Triangle,Quadratic Equation,   Square root
+  04/02/2021          Factorial,Findiing the maximum of 2 numbers,Simple intrest,Prime numbers                    
+   06/02/2021          Iterative method to find n natural numbers,Sum of natural numbers recursive method,Sum of natural numbers using formula,Sum_of_natural_numbers_function
+   07/02/2021          Sum of squares of n numbers,Sum_of_squares_functions
+
