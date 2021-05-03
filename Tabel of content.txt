@@ -46,5 +46,18 @@
 
 24-04-2021 		Dataframes
 
-     
+25-04-2021		Reading files
+26-04-2021		Handling Missing Data
+
+27-04-2021		Replace function
+
+28-4-2021		groupby function  
+
+29-4-2021		Concatenate
+30-4-2021		Merge 
+
+1-5-2021		pivot
+
+2-5-2021		melt
+
 
