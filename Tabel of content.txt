@@ -51,13 +51,20 @@
 
 27-04-2021		Replace function
 
-28-4-2021		groupby function  
+28-04-2021		groupby function  
 
-29-4-2021		Concatenate
-30-4-2021		Merge 
+29-04-2021		Concatenate
+30-04-2021		Merge 
 
-1-5-2021		pivot
+1-05-2021		pivot
 
-2-5-2021		melt
+2-05-2021		melt
 
+3-05-2021 		stack
+
+4-05-2021		crostable
+
+6-05-2021		sql
+	
+7-06-2021		Time series
 
