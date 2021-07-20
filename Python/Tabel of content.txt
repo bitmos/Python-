@@ -1,0 +1,70 @@
+      Date              Program
+   03/02/2021           Adiition
+ 		        Area of Triangle,Quadratic Equation
+		        Square root
+ 
+
+  04/02/2021            Factorial
+			Findiing the maximum of 2 numbers
+			Simple intrest
+			Prime numbers                    
+  
+
+  06/02/2021            Iterative method to find n natural numbers
+			Sum of natural numbers recursive method
+			Sum of natural numbers using formula
+			Sum_of_natural_numbers_function
+  
+  07/02/2021            Sum of squares of n numbers
+			Sum_of_squares_functions
+
+ 08-02-2021   		Fibonacci's Sequence			fibonacci_function
+			fibonacci_demo
+
+ 09-02-2021		Division_function
+			Division_demo
+
+ 11-02-2021             Circle_fucntion
+			Circle
+			list_adding
+			List addition
+ 13-02-2021             time_function
+			greeting
+			date-month-year
+			time
+			timedifference_function 
+			timediff
+				
+
+ 17-04-2021		list_equality
+
+ 19-04-2021		listelementsearch
+			tuple
+			dict
+
+23-04-2021              Introduction to Pandas
+
+24-04-2021 		Dataframes
+
+25-04-2021		Reading files
+26-04-2021		Handling Missing Data
+
+27-04-2021		Replace function
+
+28-04-2021		groupby function  
+
+29-04-2021		Concatenate
+30-04-2021		Merge 
+
+1-05-2021		pivot
+
+2-05-2021		melt
+
+3-05-2021 		stack
+
+4-05-2021		crostable
+
+6-05-2021		sql
+	
+7-06-2021		Time series
+
